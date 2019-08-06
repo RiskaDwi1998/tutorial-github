@@ -10,7 +10,7 @@
 		$jk = $_POST['jk'];
 		$tl = $_POST['tl'];
 		$namakampus = $_POST['namakampus'];
-		$nohp = $_POST['nohp']
+		$nohp = $_POST['nohp'];
 
 
 		//Pembuatan Syntax SQL
